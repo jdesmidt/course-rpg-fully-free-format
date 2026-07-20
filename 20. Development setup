@@ -1,0 +1,36 @@
+# Development setup
+
+## Source code editor
+
+### SEU / PDM
+- No updates on this product since V6R1
+- Syntax checking on fixed format RPG, but can be disabled
+- Limited to source files with source length <= 240 characters
+
+### IBM Relational developer
+- Extented development environment
+- Based on Eclipse
+- License is required
+
+### IBM Bob
+- New tool from IBM
+- AI powered development assisant 
+- License is required
+
+### VS Code with IBM i extensions
+- Widely used IDE for all kinds of programming languages
+- No license required
+- Extensions available driven by the open source community
+
+## Source code organization
+
+Sources can be stored in two ways :
+- Members (source physical files)
+- Stream files (IFS)
+
+| Source Physical Files (SRC-PF) | Stream Files (IFS) |
+| ----------- | ----------- |
+| Limited to 32.766 characters on a line | No limitations  |
+| Limited to 240 characters in SEU |   |
+| Source control possible (Ex. TD/OMS) | Source control possible (GIT) |
+
