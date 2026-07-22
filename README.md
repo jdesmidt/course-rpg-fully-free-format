@@ -17,7 +17,7 @@ Only Fully Free Format RPG is in scope. Each chapter is a separate markdown file
 | [Selections and iteration](<150. Selections and iteration.md>) | Ready |
 | [Arrays](<160. Arrays.md>) | Ready |
 | [Data structures](<170. Data structures.md>) | Ready |
-| [Build-in functions](<180. Build-in functions.md>) | Ready |
+| [Built-in functions](<180. Built-in functions.md>) | Ready |
 | [Subroutines](<190. Subroutines.md>) | Ready |
 | [Internal procedures](<200. Internal procedures.md>) | Ready |
 | [Calling programs and API's](<210. Calling programs and API's.md>) | Ready |

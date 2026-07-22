@@ -37,7 +37,7 @@
     * LDA
     * SDS
 
-* Build-in functions
+* Built-in functions
     * %subst / %trim / %scan / %replace / %len
     * %dec / %int / %char / %editc
     * %date / %diff / %days
