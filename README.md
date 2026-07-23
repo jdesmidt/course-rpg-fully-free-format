@@ -27,9 +27,9 @@ Only Fully Free Format RPG is in scope. Each chapter is a separate markdown file
 | [External procedures (ILE concepts)](<250. External procedures (ILE concepts).md>) | Ready |
 | [Data areas](<260. Data areas.md>) | Ready |
 | [Data queues](<270. Data queues.md>) | Ready |
-| [Xml parsing](<280. Xml parsing.md>) | Draft (outline only) |
+| [Xml parsing](<280. Xml parsing.md>) | Ready |
 | [YAJL](<290. YAJL.md>) | Ready |
-| [NoxDb](<300. NoxDb.md>) | Draft (outline only) |
+| [NoxDb](<300. NoxDb.md>) | Ready |
 
 
 ## Other files
