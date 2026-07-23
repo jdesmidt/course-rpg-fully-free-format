@@ -21,14 +21,15 @@ Only Fully Free Format RPG is in scope. Each chapter is a separate markdown file
 | [Subroutines](<190. Subroutines.md>) | Ready |
 | [Internal procedures](<200. Internal procedures.md>) | Ready |
 | [Calling programs and API's](<210. Calling programs and API's.md>) | Ready |
-| [Native file access](<220. Native file access.md>) | Ready |
-| [Embedded SQL](<230. Embedded SQL.md>) | Ready |
-| [External procedures (ILE concepts)](<240. External procedures (ILE concepts).md>) | Ready |
-| [Data areas](<250. Data areas.md>) | Ready |
-| [Data queues](<260. Data queues.md>) | Ready |
-| [CGIDEV2](<270. CGIDEV2.md>) | Draft (outline only) |
-| [YAJL](<280. YAJL.md>) | Draft (outline only) |
-| [NoxDb](<290. NoxDb.md>) | Draft (outline only) |
+| [Error handling](<220. Error handling.md>) | Draft (outline only) |
+| [Native file access](<230. Native file access.md>) | Ready |
+| [Embedded SQL](<240. Embedded SQL.md>) | Ready |
+| [External procedures (ILE concepts)](<250. External procedures (ILE concepts).md>) | Ready |
+| [Data areas](<260. Data areas.md>) | Ready |
+| [Data queues](<270. Data queues.md>) | Ready |
+| [CGIDEV2](<280. CGIDEV2.md>) | Draft (outline only) |
+| [YAJL](<290. YAJL.md>) | Draft (outline only) |
+| [NoxDb](<300. NoxDb.md>) | Draft (outline only) |
 
 
 ## Other files
