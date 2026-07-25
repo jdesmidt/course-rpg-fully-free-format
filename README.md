@@ -8,8 +8,8 @@ Only Fully Free Format RPG is in scope. Each chapter is a separate markdown file
 ## Table of contents
 
 - [Introduction to RPG](<100. Introduction.md>)
-- [Development setup](<110. Development setup.md>)
-- [Quick start Fully Free Format RPG](<120. Quick start Fully Free Format RPG.md>) 
+- [Development tools](<110. Development tools.md>)
+- [Things to know about Free Format RPG](<120. Things to know about Free Format RPG.md>)
 - [Control statements](<130. Control statements.md>)
 - [Fields](<140. Fields.md>)
 - [Debugging](<150. Debugging.md>)
