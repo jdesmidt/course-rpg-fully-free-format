@@ -22,6 +22,7 @@ Exercises that touch a database table, a data area, a data queue, a service prog
 - [1.3.1. Step through with STRDBG](<1.3.1. Step through with STRDBG.md>)
 - [1.3.2. Find the bugs](<1.3.2. Find the bugs.md>)
 - [1.3.3. Debug a batch job](<1.3.3. Debug a batch job.md>)
+- [1.3.4. From fixed format to free format, then debug it](<1.3.4. From fixed format to free format, then debug it.md>)
 
 **1.4** — after Selections and iteration, Arrays
 - [1.4.1. If, elseif and select](<1.4.1. If, elseif and select.md>)
