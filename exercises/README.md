@@ -16,6 +16,7 @@ Exercises that touch a database table, a data area, a data queue, a service prog
 - [1.2.1. Constants and control options](<1.2.1. Constants and control options.md>)
 - [1.2.2. Field types](<1.2.2. Field types.md>)
 - [1.2.3. Eval variants](<1.2.3. Eval variants.md>)
+- [1.2.4. Wrapping a program in your own command](<1.2.4. Wrapping a program in your own command.md>)
 
 **1.3** — after Debugging
 - [1.3.1. Step through with STRDBG](<1.3.1. Step through with STRDBG.md>)
