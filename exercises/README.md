@@ -29,6 +29,7 @@ Exercises that touch a database table, a data area, a data queue, a service prog
 - [1.4.2. Loops](<1.4.2. Loops.md>)
 - [1.4.3. Arrays and for-each](<1.4.3. Arrays and for-each.md>)
 - [1.4.4. Sorting an array](<1.4.4. Sorting an array.md>)
+- [1.4.5. Building a date message](<1.4.5. Building a date message.md>)
 
 **1.5** — after Data structures
 - [1.5.1. Basic data structures](<1.5.1. Basic data structures.md>)
